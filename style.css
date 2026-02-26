@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    font-size:xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:lightsteelblue;
+}
+H4{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+}
+nav{
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+    background-color:lavender;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 200;
+    text-align: left;
+    text-decoration: none;
+}
+button{
+    text-align: center;
+    background-color: cadetblue;
+    padding: 10px 20px;
+    font-size: medium;
+    border: 3px solid;
+    border-radius: 7px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color:aliceblue;
+}
+h2{
+    background-color: lightblue;
+}
+img{
+    border: 5px solid;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
